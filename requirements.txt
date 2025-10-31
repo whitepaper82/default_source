@@ -1,0 +1,16 @@
+
+# 환경 변수 
+python-dotenv
+
+# langchain 관련
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-ollama
+langsmith
+
+# LLM 관련
+openai
+ollama
+
